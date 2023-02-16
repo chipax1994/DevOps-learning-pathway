@@ -1,4 +1,4 @@
-The following Terraform infrastructures were created using Visual studio code[VS Code], Linux, Terraform, Bash, AWS  ;-
+The following CLOUD infrastructures were created using TERRAFORM, Visual studio code[VS Code], Linux , Bash, AWS  ;-
 # elastic ip [EiP]
 # web-server-instance
 # internet_gateway.
