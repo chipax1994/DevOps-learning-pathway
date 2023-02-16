@@ -8,3 +8,5 @@ The following CLOUD infrastructures were created using TERRAFORM,HashiCorp Confi
 - security_group
 - subnet
 - Virtual Private Cloud [vpc]
+- #create ubuntu server and install/enable apache2
+
